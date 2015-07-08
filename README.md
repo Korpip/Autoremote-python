@@ -12,7 +12,7 @@ The first one will send any message and the second one will register the device 
 There are few variables which I have marked. change the key to your respective autoremote key and localip to your device IP address.﻿
 
 INSTALL
-To install you need Hexchat with Python and any dependances (Imports **)
+To install autoremote.py you need Hexchat with Python and any dependances (Imports **)
 Change "self.url" to your devices Autoremote URL.
 
 OPTIONAL is to use the Tasker profile to create a flash of the alert sent from Hexchat.
